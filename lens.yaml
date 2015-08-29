@@ -1,0 +1,13 @@
+name: lens
+version: 1.1.0
+description: "Lens is a free and responsive theme for **Grav**. It's a port of **Lens** template by HTML5 UP."
+icon: group
+author:
+  name: GahaCrea
+  email: pro@gahacreative.com
+  url: http://gahacreative.com
+homepage: https://github.com/gahacrea/lens-gravtheme
+demo: notyetavailable
+keywords: lens, theme, photo, wall, gallery, modern, fast, responsive, html5, css3
+bugs: https://github.com/gahacrea/lens-gravtheme/issues
+license: MIT
